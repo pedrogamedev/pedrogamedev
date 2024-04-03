@@ -1,7 +1,9 @@
 myKnowledge()
 {
+
   frontEnd()
   {
+  
     HTML5;
     CSS/SCSS;
     JAVASCRIPT;
@@ -11,10 +13,14 @@ myKnowledge()
     
     BOOTSTRAP 5;
     ANGULAR;
+    
   }
+  
   backEnd()
   {
+  
     C#;
+    
   }
   UI/UXandART()
   {
