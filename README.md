@@ -1,7 +1,10 @@
+
 myKnowledge()
+
 {
 
   frontEnd()
+  
   {
   
     HTML5;
@@ -17,30 +20,44 @@ myKnowledge()
   }
   
   backEnd()
+  
   {
   
     C#;
     
   }
+  
   UI/UXandART()
+  
   {
+    
     FIGMA;
     CANVA;
     ASEPRITE;
+  
   }
+  
   linux()
+  
   {
+   
     XUBUNTU;
     TMUX;
+  
   }
+  
   otherStuff()
+  
   {
+    
     GIT;
     SQL SERVER;
     VIM;
     C;
     UNITY;
+  
   }
+
 }
 
 Will learn this someday: C++, React, Asp.net Core, Godot, Blender, RUST, typescript, Java, Haskell, Python, Lua, R, MongoDB, AWS, AZURE, Docker
