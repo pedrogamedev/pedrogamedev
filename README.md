@@ -1,5 +1,5 @@
 
-myKnowledge()
+class myKnowledge()
 
 {
 
@@ -11,12 +11,6 @@ myKnowledge()
     CSS/SCSS;
     JAVASCRIPT;
     
-    NPM;
-    WEBPACK;
-    
-    BOOTSTRAP 5;
-    ANGULAR;
-    
   }
   
   backEnd()
@@ -24,6 +18,8 @@ myKnowledge()
   {
   
     C#;
+    JAVA;
+    SPRINGBOOT; 
     
   }
   
@@ -41,6 +37,7 @@ myKnowledge()
   
   {
    
+    UBUNTU;
     XUBUNTU;
     TMUX;
   
@@ -53,14 +50,12 @@ myKnowledge()
     GIT;
     SQL SERVER;
     VIM;
-    C;
-    UNITY;
   
   }
 
 }
 
-Will learn this someday: C++, React, Asp.net Core, Godot, Blender, RUST, typescript, Java, Haskell, Python, Lua, R, MongoDB, AWS, AZURE, Docker
+Will learn this someday: C++, Angular, Godot, Blender, RUST, typescript, Haskell, Python, Lua, R, MongoDB, AWS, Kafka, Redis
 
 
 <!---
