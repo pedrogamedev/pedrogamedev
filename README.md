@@ -1,5 +1,5 @@
 
-class myKnowledge()
+class myKnowledge
 
 {
 
