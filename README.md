@@ -25,7 +25,7 @@
 [![My Skills](https://skillicons.dev/icons?i=git,vim)](https://skillicons.dev)
 
 
-To-learn: C++, Angular, Godot, Blender, RUST, typescript, Haskell, Python, Lua, R, MongoDB, AWS, Kafka, Redis
+To-learn:  Angular, Godot, Blender, typescript, MongoDB, AWS, Kafka
 
 
 <img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/e9f3ad48-6c55-4de5-ab97-35c6ff53e631" />
